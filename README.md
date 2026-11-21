@@ -52,4 +52,5 @@ Prix en dollars américains.
 | `LOG_LEVEL` | Niveau de journalisation                               | `INFO`  |
 
 ## URL de déploiement
-À compléter : https://...
+Pas de déploiement Cloud : la vérification étudiante Azure a été refusée, j'ai donc suivi l'alternative locale de la phase 6 (conteneur Docker accessible sur le réseau local, port 8080).
+Dépôt : https://github.com/benchaaliimane-crypto/prix-logement-ia
